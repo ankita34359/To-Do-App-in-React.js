@@ -43,7 +43,7 @@ Ensure you have Node.js and npm (Node Package Manager) installed on your local e
    ```
    npm install
    ```
-4. Run the development server:
+4. Run the development server:`
 
    ```
    npm start
@@ -54,16 +54,34 @@ Ensure you have Node.js and npm (Node Package Manager) installed on your local e
 
 ### Frontend:
 
-React.js: The main JavaScript library used for building the app.
+- React.js: The main JavaScript library used for building the app.
 
-JavaScript (ES6): For dynamic interactions and functionality.
+- JavaScript (ES6): For dynamic interactions and functionality.
 
-HTML5: For structuring the content.
+- HTML5: For structuring the content.
 
-CSS3: For styling and responsiveness.
+- CSS3: For styling and responsiveness.
 
 ### Development Tools:
 
-Node.js & npm: For package management and local development.
+- Node.js & npm: For package management and local development.
 
-Create React App: To set up the React development environment.
+- Create React App: To set up the React development environment.
+
+## File Structure
+
+```
+├── public
+│   ├── index.html          # Main HTML file
+├── src
+│   ├── App.js              # Main React component
+│   ├── App.css             # Styling for the app
+│   ├── index.js            # Main entry point for the app
+├── package.json            # Project metadata and dependencies
+└── README.md               # Project readme
+
+```
+
+- App.js: Contains the core logic and functionality of the app (task management).
+- App.css: Styles the app to provide a clean and simple user interface.
+- index.js: Entry point that renders the React app to the DOM.
