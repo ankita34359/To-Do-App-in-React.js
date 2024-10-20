@@ -22,9 +22,11 @@ This app is suitable for tracking daily activities and understanding the fundame
 
 ## Project Setup
 
-Pre-requisites
+### Pre-requisites
 
 Ensure you have Node.js and npm (Node Package Manager) installed on your local environment. If not, download it.
+
+### Installation Instructions
 
 1. Clone the repository:
    ```bash
@@ -46,4 +48,4 @@ Ensure you have Node.js and npm (Node Package Manager) installed on your local e
    ```
    npm start
    ```
-5. Navigate to each project folder and follow the instructions in the respective README files to explore individual projects.   
+5. Open the app in your browser by navigating to http://localhost:3000.
