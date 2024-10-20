@@ -19,3 +19,31 @@ This app is suitable for tracking daily activities and understanding the fundame
 - Delete tasks with a single click.
 - Responsive design that adapts to different screen sizes.
 - Simple and clean user interface styled with CSS.
+
+## Project Setup
+
+Pre-requisites
+
+Ensure you have Node.js and npm (Node Package Manager) installed on your local environment. If not, download it.
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/react-projects.git
+
+2. Navigate into the project directory:
+
+   ```
+   cd react-projects
+   ```
+   
+3. Install dependencies (make sure you have Node.js installed):
+
+   ```
+   npm install
+   ```
+4. Run the development server:
+
+   ```
+   npm start
+   ```
+5. Navigate to each project folder and follow the instructions in the respective README files to explore individual projects.   
