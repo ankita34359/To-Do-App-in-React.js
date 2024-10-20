@@ -11,3 +11,11 @@ The app allows users to:
 - Delete tasks from the list.
   
 This app is suitable for tracking daily activities and understanding the fundamentals of React development.
+
+## Features
+
+- Add tasks with an intuitive input field.
+- Edit tasks easily using the in-app edit functionality.
+- Delete tasks with a single click.
+- Responsive design that adapts to different screen sizes.
+- Simple and clean user interface styled with CSS.
